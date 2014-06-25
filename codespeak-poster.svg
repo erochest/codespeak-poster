@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3240"
+   height="2160"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="codespeak-poster.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 0,10 10,5 z"
+       is_visible="true"
+       id="path-effect4048"
+       effect="skeletal" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,5 10,10 10,0 z"
+       is_visible="true"
+       id="path-effect4052"
+       effect="skeletal" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38583845"
+     inkscape:cx="1611.8911"
+     inkscape:cy="1084.345"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1770"
+     inkscape:window-height="1038"
+     inkscape:window-x="84"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3884" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1107.6403)">
+    <image
+       y="865.35968"
+       x="2450"
+       id="image3152"
+       xlink:href="file:///Users/err8n/p/codespeak-poster/slab-logo-rgb-350px.png"
+       height="67"
+       width="350" />
+    <image
+       y="865.35968"
+       x="2840"
+       id="image3214"
+       xlink:href="file:///Users/err8n/p/codespeak-poster/neh_at_logo.png"
+       height="67"
+       width="280" />
+    <g
+       style="display:inline"
+       inkscape:label="svg-layer"
+       id="layer3"
+       transform="matrix(1.6633305,0,0,1.6633305,937.87395,-1007.6293)">
+      <rect
+         y="12.017466"
+         x="10.526365"
+         height="187.46907"
+         width="394.46631"
+         id="rect4143"
+         style="fill:#f3961c;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4147"
+         d="m 69.50378,199.49595 0.500269,29.5081 0,0 -30.008098,-29.5081 z"
+         style="fill:#f3961c;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2998"
+         y="133.5"
+         x="51.5"
+         style="font-size:77px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="133.5"
+           x="51.5"
+           id="tspan3000"
+           sodipodi:role="line">Speaking</tspan></text>
+      <rect
+         y="163"
+         x="430"
+         height="83.333336"
+         width="98"
+         id="rect3770"
+         style="fill:#b6c43f;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3772"
+         d="M 503.33333,260 518,245.66667 l -15.33333,0 z"
+         style="fill:#b6c43f;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774"
+         y="219.66667"
+         x="460.00003"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="219.66667"
+           x="460.00003"
+           id="tspan3776"
+           sodipodi:role="line">in</tspan></text>
+      <rect
+         y="23.666668"
+         x="559"
+         height="185.66667"
+         width="250.66667"
+         id="rect3780"
+         style="fill:#f7e907;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3782"
+         d="M 750.66667,239.66667 750.66667,209 781,209 z"
+         style="fill:#f7e907;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3784"
+         y="144.25246"
+         x="598.19525"
+         style="font-size:77px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="144.25246"
+           x="598.19525"
+           id="tspan3786"
+           sodipodi:role="line">Code</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:90px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans Bold"
+       x="120"
+       y="-467.64029"
+       id="text3890"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3892"
+         x="120"
+         y="-467.64029">The Summit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:90px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans Bold"
+       x="1800"
+       y="-467.64029"
+       id="text3894"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3896"
+         x="1800"
+         y="-467.64029">The Kit</tspan></text>
+    <g
+       id="g4424"
+       transform="translate(0,120)">
+      <rect
+         transform="translate(0,-1107.6403)"
+         y="1120"
+         x="760"
+         height="680"
+         width="1720"
+         id="rect3914"
+         style="fill:#fad5a6;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3886"
+         y="119.62716"
+         x="1270.8861"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="119.62716"
+           x="1270.8861"
+           id="tspan3888"
+           sodipodi:role="line">You are Welcome Here</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3898"
+         y="212.3597"
+         x="799.12488"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="212.3597"
+           x="799.12488"
+           id="tspan3900"
+           sodipodi:role="line">Speaking in Code participants will be selected on the basis of </tspan><tspan
+           id="tspan3902"
+           y="282.35968"
+           x="799.12488"
+           sodipodi:role="line">their demonstrated experience in digital humanities software </tspan><tspan
+           id="tspan3904"
+           y="352.35968"
+           x="799.12488"
+           sodipodi:role="line">development, their interest in advancing solutions to the problems </tspan><tspan
+           id="tspan3906"
+           y="422.35968"
+           x="799.12488"
+           sodipodi:role="line">raised by the summit, and the disciplinary and cultural diversity they </tspan><tspan
+           id="tspan3908"
+           y="492.35968"
+           x="799.12488"
+           sodipodi:role="line">bring to the conversation. We particularly encourage and will prioritize </tspan><tspan
+           id="tspan3910"
+           y="562.35968"
+           x="799.12488"
+           sodipodi:role="line">applications by women developers, people of color, LGBT developers, </tspan><tspan
+           id="tspan3912"
+           y="632.35968"
+           x="799.12488"
+           sodipodi:role="line">and coders from other under-represented groups.</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans"
+       x="119.22088"
+       y="703.43182"
+       id="text4437"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1107.6403)"><tspan
+         sodipodi:role="line"
+         id="tspan4439"
+         x="119.22088"
+         y="703.43182">Speaking in Code was a summit held in November 2013 by the Scholars' Lab with</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="763.43182"
+         id="tspan4487">funding from the National Endowment for the Humanities. For two days,</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="823.43182"
+         id="tspan4489">approximately thirty software developers and practitioners gathered to dissect</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="883.43182"
+         id="tspan4491">the tacit knowledge embedded in and informing the practice of software</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="943.43182"
+         id="tspan4493">development in DH projects.</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="1003.4318"
+         id="tspan4495" /><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="1063.4319"
+         id="tspan4521">Under the leadership of the participants, the discussion soon diverged from</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="1123.4319"
+         id="tspan4523">talking about tacit knowledge and code critique. Instead, they spent the time</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="1183.4319"
+         id="tspan4525">discussing ways to dismantle social barriers, both explicit and implicit,</tspan><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="1243.4319"
+         id="tspan4529" /><tspan
+         sodipodi:role="line"
+         x="119.22088"
+         y="1303.4319"
+         id="tspan4531" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans"
+       x="120"
+       y="132.3597"
+       id="text4592"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4594"
+         x="120"
+         y="132.3597">spoken and tacit — barriers to </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="192.3597"
+         id="tspan4598">access to digital humanities </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="252.3597"
+         id="tspan4596">communities and </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="312.35968"
+         id="tspan4604">conversations and internal </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="372.35968"
+         id="tspan4606">barriers dividing the DH </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="432.35968"
+         id="tspan4608">community.</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="492.35968"
+         id="tspan4610">Participants also examined </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="552.35968"
+         id="tspan4614">the social and power </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="612.35968"
+         id="tspan4616">structures, and (lack of) </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="672.35968"
+         id="tspan4618">diversity found in technical </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="732.35968"
+         id="tspan4620">environments in general and </tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="792.35968"
+         id="tspan4622">in DH work in particular.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans"
+       x="1800"
+       y="-405.64029"
+       id="text4678"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4680"
+         x="1800"
+         y="-405.64029">The Speaking in Code Kit is #codespeak in a box. Its purpose is to </tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="-345.64029"
+         id="tspan4682">amplify the voices, continue the conversations, and enable more </tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="-285.64029"
+         id="tspan4684">DH and digital library software developers to join in on the</tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="-225.64029"
+         id="tspan4686">discussions started in the original Speaking in Code.</tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="-165.64029"
+         id="tspan4688" /><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="-105.64029"
+         id="tspan4690">There are no step-by-step instructions. Each Speaking in Code </tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="-45.640289"
+         id="tspan4692">summit should be different, addressing the needs of the </tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="14.359711"
+         id="tspan4694">participants. Instead, the Kit is a loose set of suggestions, </tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="74.359711"
+         id="tspan4696">priorities, and practices to encourage the type of discussion that </tspan><tspan
+         sodipodi:role="line"
+         x="1800"
+         y="134.35971"
+         id="tspan4708" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Sans"
+       x="2520"
+       y="132.3597"
+       id="text4763"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4765"
+         x="2520"
+         y="132.3597">the Scholars' Lab attendees </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="192.3597"
+         id="tspan4779">found transformative. </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="252.3597"
+         id="tspan4767" /><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="312.35968"
+         id="tspan4769">The only concrete tool in the </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="372.35968"
+         id="tspan4781">Kit is a website template. It </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="432.35968"
+         id="tspan4771">includes basic styling and </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="492.35968"
+         id="tspan4787">slots for necessary </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="552.35968"
+         id="tspan4773">information. </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="612.35968"
+         id="tspan4805" /><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="672.35968"
+         id="tspan4797">To use this, you can fork the </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="732.35968"
+         id="tspan4775">git repository and customize </tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="792.35968"
+         id="tspan4803">the template as you see fit.</tspan><tspan
+         sodipodi:role="line"
+         x="2520"
+         y="852.35968"
+         id="tspan4777" /></text>
+  </g>
+</svg>
